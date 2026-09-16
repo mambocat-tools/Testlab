@@ -16,6 +16,7 @@ Plenty-API änderst:
 | Backup, Datenbankabzüge, Wiederherstellung | `README.md`, „Backup" |
 | Plenty-API: geprüftes Wissen und Eigenheiten | `plenty-api/VERIFIZIERT.md` |
 | Sicherheitsrichtlinie, Zugriffsrechte der API-Konten | `SICHERHEIT.md` |
+| **Oberfläche**: Farben, Schrift, Kopfleiste, Knöpfe — nichts selbst erfinden | [`mambotools-design`](https://github.com/mambocat-tools/mambotools-design), `DESIGN.md` |
 
 **Neue Erkenntnisse, die mehr als dieses Repo betreffen, gehören dorthin**
 — nicht hierher. Sonst stehen sie bald an dreißig Stellen unterschiedlich.
