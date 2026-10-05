@@ -21,6 +21,15 @@ Plenty-API änderst:
 **Neue Erkenntnisse, die mehr als dieses Repo betreffen, gehören dorthin**
 — nicht hierher. Sonst stehen sie bald an dreißig Stellen unterschiedlich.
 
+**Fertig melden.** Ist ein Vorhaben umgesetzt und ausgeliefert, am Ende
+ausdrücklich sagen, dass es **fertig** ist – und es in
+[`mambotools-projekte`](https://github.com/mambocat-tools/mambotools-projekte)
+markieren: im Steckbrief `status: live` setzen (bei Fehlern/Änderungen heißt
+das „behoben und ausgeliefert“), in der README die Zeile ins eingeklappte
+**Archiv** verschieben. Dann verschwindet es aus der offenen Liste und steht
+im Backlog-Tool unter dem Reiter „Archiv“. Gibt es noch keinen Steckbrief,
+ist nichts zu markieren.
+
 <sub>Dieser Abschnitt wird von `tools/repo_hinweis.py` in
 `server_mambocat` gepflegt. Änderungen hier werden beim nächsten Lauf
 überschrieben.</sub>
