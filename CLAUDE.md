@@ -21,6 +21,16 @@ Plenty-API änderst:
 **Neue Erkenntnisse, die mehr als dieses Repo betreffen, gehören dorthin**
 — nicht hierher. Sonst stehen sie bald an dreißig Stellen unterschiedlich.
 
+**Keine Anthropic-API ohne Rückfrage** (Nutzer, 17.11.2026). Texte,
+Übersetzungen, Auswertungen usw. erstellt Claude im normalen Plan (Sitzung
+oder Subagent). Bevor irgendetwas über die bezahlte API läuft – Paket
+`anthropic`, `ANTHROPIC_API_KEY`, api.anthropic.com, auch über vorhandene
+Skripte oder Werkzeuge wie `uebersetzer.py` –, **vorher klar fragen**: was,
+wie viele Aufrufe, geschätzte Kosten. Erst nach ausdrücklichem Ja. Gilt auch
+für Subagenten und für neue API-Nutzung in laufenden Diensten. Landestexte
+nicht wörtlich übersetzen, sondern muttersprachlich mit landeseigenen
+Suchbegriffen schreiben.
+
 **Fertig melden.** Ist ein Vorhaben umgesetzt und ausgeliefert, am Ende
 ausdrücklich sagen, dass es **fertig** ist – und es in
 [`mambotools-projekte`](https://github.com/mambocat-tools/mambotools-projekte)
